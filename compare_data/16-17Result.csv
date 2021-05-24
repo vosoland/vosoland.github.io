@@ -1,0 +1,46 @@
+Date,Start (ET),win,lose,win_probability
+Tue Oct 25 2016,7:30p,Cleveland Cavaliers,New York Knicks,0.902
+Tue Oct 25 2016,10:00p,Portland Trail Blazers,Utah Jazz,0.708
+Tue Oct 25 2016,10:30p,Golden State Warriors,San Antonio Spurs,0.656
+Wed Oct 26 2016,7:00p,Indiana Pacers,Dallas Mavericks,0.624
+Wed Oct 26 2016,7:00p,Miami Heat,Orlando Magic,0.664
+Wed Oct 26 2016,7:30p,Toronto Raptors,Detroit Pistons,0.744
+Wed Oct 26 2016,7:30p,Boston Celtics,Brooklyn Nets,0.896
+Wed Oct 26 2016,8:00p,Charlotte Hornets,Milwaukee Bucks,0.703
+Wed Oct 26 2016,8:00p,New Orleans Pelicans,Denver Nuggets,0.5329999999999999
+Wed Oct 26 2016,8:00p,Memphis Grizzlies,Minnesota Timberwolves,0.627
+Wed Oct 26 2016,8:00p,Oklahoma City Thunder,Philadelphia 76ers,0.95
+Wed Oct 26 2016,10:00p,Sacramento Kings,Phoenix Suns,0.621
+Wed Oct 26 2016,10:30p,Houston Rockets,Los Angeles Lakers,0.822
+Thu Oct 27 2016,7:30p,Atlanta Hawks,Washington Wizards,0.696
+Thu Oct 27 2016,8:00p,Boston Celtics,Chicago Bulls,0.612
+Thu Oct 27 2016,10:30p,Portland Trail Blazers,Los Angeles Clippers,0.5680000000000001
+Thu Oct 27 2016,10:30p,San Antonio Spurs,Sacramento Kings,0.863
+Fri Oct 28 2016,7:00p,Cleveland Cavaliers,Toronto Raptors,0.553
+Fri Oct 28 2016,7:30p,Indiana Pacers,Brooklyn Nets,0.808
+Fri Oct 28 2016,7:30p,Detroit Pistons,Orlando Magic,0.687
+Fri Oct 28 2016,8:00p,Oklahoma City Thunder,Phoenix Suns,0.935
+Fri Oct 28 2016,8:00p,Miami Heat,Charlotte Hornets,0.569
+Fri Oct 28 2016,8:30p,Dallas Mavericks,Houston Rockets,0.52
+Fri Oct 28 2016,9:00p,Utah Jazz,Los Angeles Lakers,0.843
+Fri Oct 28 2016,9:30p,Golden State Warriors,New Orleans Pelicans,0.915
+Sat Oct 29 2016,12:30p,Atlanta Hawks,Philadelphia 76ers,0.901
+Sat Oct 29 2016,7:00p,Charlotte Hornets,Boston Celtics,0.5780000000000001
+Sat Oct 29 2016,7:30p,Cleveland Cavaliers,Orlando Magic,0.886
+Sat Oct 29 2016,7:30p,Memphis Grizzlies,New York Knicks,0.566
+Sat Oct 29 2016,8:00p,San Antonio Spurs,New Orleans Pelicans,0.935
+Sat Oct 29 2016,8:00p,Milwaukee Bucks,Brooklyn Nets,0.726
+Sat Oct 29 2016,8:00p,Indiana Pacers,Chicago Bulls,0.554
+Sat Oct 29 2016,9:00p,Portland Trail Blazers,Denver Nuggets,0.664
+Sat Oct 29 2016,10:30p,Sacramento Kings,Minnesota Timberwolves,0.598
+Sun Oct 30 2016,4:30p,Los Angeles Clippers,Utah Jazz,0.6930000000000001
+Sun Oct 30 2016,6:00p,Detroit Pistons,Milwaukee Bucks,0.757
+Sun Oct 30 2016,6:00p,San Antonio Spurs,Miami Heat,0.696
+Sun Oct 30 2016,6:00p,Golden State Warriors,Phoenix Suns,0.943
+Sun Oct 30 2016,7:00p,Oklahoma City Thunder,Los Angeles Lakers,0.95
+Sun Oct 30 2016,8:00p,Houston Rockets,Dallas Mavericks,0.5529999999999999
+Sun Oct 30 2016,8:00p,Washington Wizards,Memphis Grizzlies,0.548
+Mon Oct 31 2016,7:30p,Atlanta Hawks,Sacramento Kings,0.788
+Mon Oct 31 2016,7:30p,Chicago Bulls,Brooklyn Nets,0.782
+Mon Oct 31 2016,7:30p,Toronto Raptors,Denver Nuggets,0.857
+Mon Oct 31 2016,10:30p,Los Angeles Clippers,Phoenix Suns,0.885
